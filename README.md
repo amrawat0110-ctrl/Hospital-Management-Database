@@ -738,6 +738,21 @@ Flowcharts                   ✅
 
 The **Hospital Management System** demonstrates how a relational database can be designed and queried to manage hospital operations. It combines relational database design with practical SQL concepts required for the Set C practical examination.
 
-**Built for SQL Practical Exam — Set C** 🏥💻
 
-> **Quality is our Motto.**
+---
+
+## 👨‍💻 Author
+
+**Armin Khareghat**  
+B.Sc. Computer Science  
+🤖 AI / ML & Data Science  
+
+---
+
+## 📜 License
+
+This project is created for **educational and learning purposes**.
+
+---
+
+⭐ If you found this project useful, consider giving the repository a star!
